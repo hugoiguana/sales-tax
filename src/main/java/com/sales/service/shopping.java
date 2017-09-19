@@ -8,7 +8,7 @@ import org.springframework.core.io.Resource;
 import com.sales.model.ShoppingCart;
 
 @SuppressWarnings("deprecation")
-public class Shooping {
+public class shopping {
 
 	
 	public static void main(String[] args) {
